@@ -1,18 +1,18 @@
-# innit
-The minimalistic poorly programmed init system
-Things done
-  1.Boot
-  2.Drivers
-  3.Gui
-  4.UnExitable
-  5.Basic Bash
-Things to do
-  1.Shutdown
-  2.Kill zombie processes
-  3.Add ^C functionality
-  4.Supervisor program
-  5.A scripting language to make bootup scripts
-  6.Read inittab
-  7.Ctrl+Alt+Del Shutdown
-  8.Ctrl+Alt+F4 Login
-You can tell theres alot to do but atleast on my machine its in a semi usable state.
+# innit <br>
+The minimalistic poorly programmed init system <br>
+Things done <br>
+  1.Boot <br>
+  2.Drivers <br>
+  3.Gui <br>
+  4.UnExitable <br>
+  5.Basic Bash <br>
+Things to do <br>
+  1.Shutdown <br>
+  2.Kill zombie processes <br>
+  3.Add ^C functionality <br>
+  4.Supervisor program <br>
+  5.A scripting language to make bootup scripts <br>
+  6.Read inittab <br>
+  7.Ctrl+Alt+Del Shutdown <br>
+  8.Ctrl+Alt+F4 Login <br>
+You can tell theres alot to do but atleast on my machine its in a semi usable state. <br>
